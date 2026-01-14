@@ -1,0 +1,13 @@
+{
+    "hud_title_text/title_frame/title_background": {
+        "ignored": true
+    },
+    "hud_title_text/title_frame/title": {
+        "font_size": "normal",
+        "anchor_from": "center",
+        "anchor_to": "center"
+    },
+    "hud_title_text": {
+        "offset": [-1, 15]
+    }
+}

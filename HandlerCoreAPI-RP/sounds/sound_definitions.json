@@ -1,0 +1,35 @@
+{
+    "format_version": "1.14.0",
+    "sound_definitions": {
+        "crit": {
+            "category": "player",
+            "sounds": [
+                "sounds/crit1",
+                "sounds/crit2",
+                "sounds/crit3"
+            ]
+        },
+        "knockback": {
+            "category": "player",
+            "sounds": [
+                "sounds/knockback1",
+                "sounds/knockback2",
+                "sounds/knockback3",
+                "sounds/knockback4"
+            ]
+        },
+        "sweep": {
+            "category": "player",
+            "sounds": [
+                "sounds/sweep1",
+                "sounds/sweep2",
+                "sounds/sweep3",
+                "sounds/sweep4",
+                "sounds/sweep5",
+                
+                "sounds/sweep6",
+                "sounds/sweep7"
+            ]
+        }
+    }
+}
