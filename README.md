@@ -1,6 +1,6 @@
 <img align="center" width="2006" height="395" alt="addon_title" src="https://github.com/user-attachments/assets/4b4ebd63-e71a-4070-8f44-2faa2fa7962d" />
 
-<h3 align="center"> 🟢 Updated for Minecraft Bedrock v1.21.131</h3>
+<h3 align="center"> ⚠️ Due to personal problems, this addon wouldn't be worked on for a while. ⚠️</h3>
 
 ---
 
